@@ -1,0 +1,23 @@
+
+.container-userlist {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    background: #FFFFFF;
+    height: 60%;
+    width: 8%;
+    text-decoration: ;
+}
+
+.d-flex {
+    display: flex;
+    font-size: x-large;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+    margin-top: 6px;
+    margin-left: 4px;
+}
+    
